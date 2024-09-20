@@ -1,0 +1,7 @@
+header,
+section {
+    overflow: visible;
+}
+.card:hover{
+    box-shadow:-30px 25px 33px rgba(64, 41, 41, 0.3) ;
+}

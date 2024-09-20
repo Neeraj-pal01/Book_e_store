@@ -1,0 +1,53 @@
+.dflex {
+    background-color: white;
+    width: 500px;
+    margin: 50px auto;
+    padding: 30px 20px;
+    box-shadow: -34px 25px 33px rgba(64, 41, 41, 0.4);
+}
+
+.div {
+    text-align: left;
+    margin-bottom: 25px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input {
+    border: 1px solid gray;
+    border-radius: 2px;
+    font-family: inherit;
+    padding: 10px;
+    display: block;
+    width: 90%;
+}
+input:hover{
+    /* border: 2px solid black; */
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.7);
+}
+span{
+    color: red;
+}
+button {
+    background-color: blueviolet;
+    border: 1px solid red;
+    border-radius: 2px;
+    font-family: inherit;
+    font-size: 21px;
+    display: block;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.disIn {
+        display: flex;
+}
+.disIn input{
+    padding: 2px;
+    width: auto;
+    margin:0px 10px;
+    margin-bottom: 10px;
+}

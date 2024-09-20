@@ -1,0 +1,25 @@
+header {
+    background: #ff512f;
+    /* fallback for old browsers */
+    background:white
+  }
+nav{
+    background: linear-gradient(to bottom, #dd2476, #ff512f);;
+}
+header,
+section {
+    overflow: visible;
+}
+
+section h3{
+    color: white;
+}
+.publition{
+    color: #878787;
+    font-size: 14px;
+    padding-bottom: 5px;
+    word-wrap: break-word;
+}
+.card:hover{
+    box-shadow: -30px 22px 22px rgba(108, 105, 105, 0.2); ;
+}
